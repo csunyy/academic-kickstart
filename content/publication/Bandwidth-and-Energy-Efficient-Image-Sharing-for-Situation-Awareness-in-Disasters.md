@@ -1,10 +1,10 @@
 +++
-title = "A Cost-efficient Rewriting Scheme to Improve Restore Performance in Deduplication Systems"
-date = 2017-06-24T15:28:51+08:00
+title = "Bandwidth and Energy Efficient Image Sharing for Situation Awareness in Disasters"
+date = 2019-01-01T10:26:24+08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jie Wu", "Yu Hua", "Pengfei Zuo", "Yuanyuan Sun"]
+authors = ["Pengfei Zuo", "Yu Hua", "Yuanyuan Sun", "Xue Liu", "Jie Wu", "Yuncheng Guo", "Wen Xia", "Shunde Cao", "Dan Feng"]
 
 # Publication type.
 # Legend:
@@ -15,11 +15,11 @@ authors = ["Jie Wu", "Yu Hua", "Pengfei Zuo", "Yuanyuan Sun"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Proceedings of the 33rd International Conference on Massive Storage Systems and Technology"
-publication_short = "MSST"
+publication = "IEEE Transactions on Parallel and Distributed Systems"
+publication_short = "TPDS"
 
 # Abstract and optional shortened version.
 abstract = ""

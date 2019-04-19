@@ -1,10 +1,10 @@
 +++
-title = "A Cost-efficient Rewriting Scheme to Improve Restore Performance in Deduplication Systems"
-date = 2017-06-24T15:28:51+08:00
+title = "Smoother a Smooth Renewable Power Aware Middleware"
+date = 2019-04-19T10:25:32+08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jie Wu", "Yu Hua", "Pengfei Zuo", "Yuanyuan Sun"]
+authors = ["Xinxin Liu", "Yu Hua", "Xue Liu", "Ling Yang", "Yuanyuan Sun"]
 
 # Publication type.
 # Legend:
@@ -18,8 +18,8 @@ authors = ["Jie Wu", "Yu Hua", "Pengfei Zuo", "Yuanyuan Sun"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Proceedings of the 33rd International Conference on Massive Storage Systems and Technology"
-publication_short = "MSST"
+publication = "Proceedings of the 39th IEEE International Conference on Distributed Computing Systems"
+publication_short = "ICDCS"
 
 # Abstract and optional shortened version.
 abstract = ""

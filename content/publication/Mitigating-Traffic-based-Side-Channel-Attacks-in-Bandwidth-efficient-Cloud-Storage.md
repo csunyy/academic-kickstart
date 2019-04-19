@@ -18,8 +18,8 @@ authors = ["Pengfei Zuo", "Yu Hua", "Cong Wang", "Wen Xia", "Shunde Cao", "Yukun
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "Proceedings of the 32nd IEEE International Parallel and Distributed Processing Symposium"
+publication_short = "IPDPS"
 
 # Abstract and optional shortened version.
 abstract = ""
