@@ -14,7 +14,7 @@ subtitle = ""
 weight = 60
 
 +++
-- Awards:  ACM SOSP Student Scholarships awarded by Google, 2017
+- ACM SOSP Student Scholarships awarded by Google, 2017
 - ACM SoCC Student Scholarships, 2017
 - USENIX ATC Grants, 2017
 - National Scholarship for Graduate Students, 2017
