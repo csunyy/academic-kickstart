@@ -1,6 +1,6 @@
 +++
-title = "Smoother a Smooth Renewable Power Aware Middleware"
-date = 2019-04-19T10:25:32+08:00
+title = "Smoother: a Smooth Renewable Power Aware Middleware"
+date = 2019-07-01T10:25:32+08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
