@@ -1,10 +1,10 @@
 +++
-title = "A Collision-Mitigation Cuckoo Hashing Scheme for Large-scale Storage Systems"
-date = 2017-03-15
+title = "P-index: An Efficient Searchable Metadata Indexing Scheme Based on Data Provenance in Cold Storage"
+date = 2015-07-24T15:14:51+08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Yuanyuan Sun**", "Yu Hua", "Dan Feng", "Ling Yang", "Pengfei Zuo", "Shunde Cao", "Yuncheng Guo"]
+authors = ["Jinjun Liu", "Dan Feng", "Yu Hua", "Bin Peng", "Pengfei Zuo", "**Yuanyuan Sun**"]
 
 # Publication type.
 # Legend:
@@ -15,11 +15,11 @@ authors = ["**Yuanyuan Sun**", "Yu Hua", "Dan Feng", "Ling Yang", "Pengfei Zuo",
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Transactions on Parallel and Distributed Systems"
-publication_short = "TPDS"
+publication = "Proceedings of the 15th International Conference on Algorithms and Architectures for Parallel Processing"
+publication_short = "ICA3PP"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "pdf/sun-TPDS2016.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
