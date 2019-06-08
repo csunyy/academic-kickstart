@@ -38,3 +38,5 @@ I have published several papers in major conferences and journals including USEN
 
 I serve as program committee member in [MSST 2020](http://storageconference.us/).
 
+[My CV](pdf/cv-sun.pdf)
+
